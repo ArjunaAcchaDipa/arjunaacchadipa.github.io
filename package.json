@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ArjunaAcchaDipa.github.io",
+  "homepage": "https://ArjunaAcchaDipa.github.io/",
   "name": "react-portfolio-template",
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
@@ -34,9 +34,8 @@
   ],
   "license": "0BSD",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public",
+    "build": "react-scripts build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
