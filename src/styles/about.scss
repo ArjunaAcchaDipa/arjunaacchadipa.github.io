@@ -2,6 +2,7 @@
   width: 80vw;
   margin-top: 10vh;
   display: flex;
+  text-align: justify;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {
     flex-direction: column-reverse;

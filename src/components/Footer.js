@@ -30,6 +30,12 @@ const Footer = () => {
             Made With <icon>❤</icon> by{" "}
             <a href="https://www.chetanverma.com/">Chetan Verma</a>
           </span>
+          <span>
+            and Modified by{" "}
+            <a href="https://www.linkedin.com/in/arjunaacchadipa">
+              Arjuna Accha Dipa
+            </a>
+          </span>
         </div>
       </div>
     </div>
