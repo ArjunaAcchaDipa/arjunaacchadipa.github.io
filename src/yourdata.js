@@ -162,6 +162,16 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://student-activity.binus.ac.id/csc/2021/10/ssh-port-forwarding/",
     },
+    {
+      title: "Malware", //Project Title - Add Your Project Title Here
+      para:
+        "Kata malware terdiri dari kata malicious yang berarti jahat dan software yang berarti perangkat lunak dan/atau data yang diprogram untuk melakukan suatu hal.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        require('./images/articleMalware.png'),
+      //Project URL - Add Your Project Url Here
+      url: "https://student-activity.binus.ac.id/csc/2021/10/malware/",
+    },
   ],
 
   // End Article Section -----------------
