@@ -65,9 +65,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am a Cyber Security Undergraduate Student at BINUS University. I took a big interest in Computer Science, especially in IT Security. I was born in Surabaya, and now currently pursuing my dream to become Cyber Security Engineer at BINUS University @Kemanggisan, Jakarta.",
+    "I am a Cyber Security Undergraduate Student at BINUS University. I took a big interest in Computer Science, especially in IT Security. I am currently pursuing my dream to become Cyber Security Engineer.",
   aboutParaTwo:
-    "As Cyber Security Student, I am proficient in coding, testing, and debugging programs. Proficient in a variety of programming languages including C, Python, and SQL Server. Also familiar with Laravel, Git, Bash, and Assembly.",
+    "As Cyber Security Student, I am proficient in coding, testing, and debugging programs. Proficient in a variety of programming languages including C, Python, and SQL Server. Also familiar with Laravel, Git, Bash, and Assembly. Experienced Division Manager with a demonstrated history of working in the non-profit organization management industry.",
   aboutImage:
     require('./images/profile.png'),
 
