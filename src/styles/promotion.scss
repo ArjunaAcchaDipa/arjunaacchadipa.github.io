@@ -8,6 +8,15 @@
   h1 {
     font-size: 3rem;
     line-height: 20px;
+    @include media(">=phone", "<lgphone") {
+      font-size: 25px;
+    }
+    @include media(">=lgphone", "<tablet") {
+      font-size: 25px;
+    }
+    @include media(">=tablet", "<desktop") {
+      font-size: 25px;
+    }
   }
 }
 .resume .resume-title {
@@ -16,6 +25,15 @@
   margin-top: 20px;
   margin-bottom: 20px;
   color: #45505b;
+  @include media(">=phone", "<lgphone") {
+    font-size: 20px;
+  }
+  @include media(">=lgphone", "<tablet") {
+    font-size: 20px;
+  }
+  @include media(">=tablet", "<desktop") {
+    font-size: 20px;
+  }
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
